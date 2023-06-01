@@ -1,0 +1,80 @@
+---
+title: "Luca Mayer-Dalverny"
+image: profile.png
+listing:
+    - id: work-experiences
+      contents: experiences/
+      type: default
+      image-align: left
+      date-format: "MMMM YYYY"
+      sort: "date desc"
+    - id: diplomas
+      contents: diplomas/
+      image-align: left
+      date-format: "MMMM YYYY"
+      sort: "date desc"
+    - id: certificates
+      contents: certificates/
+      type: default
+      image-align: left
+      date-format: "MMMM YYYY"
+      sort: "date desc"
+about:
+  template: jolla
+---
+
+```{=html}
+<style>
+    div.quarto-post .thumbnail img
+    {
+        width: 50%;
+    }
+
+    .quarto-listing
+    {
+        text-align: left;
+    }
+
+    .centered
+    {
+        text-align: center;
+    }
+</style>
+```
+
+:::{.centered}
+
+Engineer in Artificial Intelligence and Bio-inspired Software Development
+
+:::
+
+:::{.panel-tabset}
+
+# Work Experience
+
+---
+
+:::{#work-experiences}
+:::
+
+---
+
+# Diplomas
+
+---
+
+:::{#diplomas}
+:::
+
+---
+
+# Certificates
+
+---
+
+:::{#certificates}
+:::
+
+---
+
+:::

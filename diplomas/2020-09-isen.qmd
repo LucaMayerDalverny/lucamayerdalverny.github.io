@@ -1,0 +1,9 @@
+---
+title: "Engineer Degree"
+subtitle: "ISEN Méditerranée"
+description: "5 years engineering school"
+date: "2020-09"
+image: "2020-09-isen.png"
+---
+
+Details concerning this diploma will soon be added

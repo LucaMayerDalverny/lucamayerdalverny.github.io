@@ -1,0 +1,7 @@
+---
+title: "Welcome to Luca's website!"
+about:
+  template: jolla
+---
+
+This homepage is still a work in progress but you can check my online resume [here](resume.qmd)

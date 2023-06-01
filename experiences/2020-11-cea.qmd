@@ -1,0 +1,10 @@
+---
+title: "CEA LETI, Grenoble"
+subtitle: "Research Engineer"
+description: "Development of Machine Learning models for stress detection from physiological data"
+date: "2020-11-23"
+categories: [ai, python, health]
+image: "2020-11-cea.jpg"
+---
+
+Details concerning this work experience will soon be added

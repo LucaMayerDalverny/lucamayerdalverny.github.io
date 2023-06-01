@@ -1,0 +1,9 @@
+---
+title: "Scientific Baccalaureate"
+subtitle: "Lycée Saint Thomas de Villeneuve"
+description: "Computer science option (ISN)"
+date: "2015-06"
+image: "2015-06-stv.jpg"
+---
+
+Details concerning this diploma will soon be added

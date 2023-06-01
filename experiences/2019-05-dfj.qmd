@@ -1,0 +1,10 @@
+---
+title: "Dassault Falcon Jet, Little Rock"
+subtitle: "4 Months Internship"
+description: "Redesign of the MIS Self Service Portal with Angular and Clarity Design System"
+date: "2019-05-20"
+categories: [webdev, angular, clarity, typescript, c#]
+image: "2019-05-dfj.png"
+---
+
+Details concerning this work experience will soon be added

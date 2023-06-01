@@ -1,0 +1,10 @@
+---
+title: "CEA LIST, Grenoble"
+subtitle: "6 Months Internship"
+description: "Studying Generative Neural Networks to optimize a Knowledge Transfer Method"
+date: "2020-03-08"
+categories: [ai, python, autoencoders, knowledge-transfer]
+image: "2020-03-cea.jpg"
+---
+
+Details concerning this work experience will soon be added

@@ -1,0 +1,9 @@
+---
+title: "TOEIC"
+subtitle: "Certificate obtained at ISEN Méditerranée"
+description: "Score: 970"
+date: "2018-12"
+image: "2018-12-toeic.jpg"
+---
+
+Details concerning this certificate will soon be added

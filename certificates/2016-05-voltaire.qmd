@@ -1,0 +1,9 @@
+---
+title: "Certificat Voltaire"
+subtitle: "Certificate obtained at ISEN Méditerranée"
+description: "Score: 792"
+date: "2016-05"
+image: "2016-05-voltaire.jpg"
+---
+
+Details concerning this certificate will soon be added

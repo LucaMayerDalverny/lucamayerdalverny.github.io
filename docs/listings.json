@@ -1,0 +1,19 @@
+[
+  {
+    "listing": "/blog.html",
+    "items": []
+  },
+  {
+    "listing": "/resume.html",
+    "items": [
+      "/experiences/2020-11-cea.html",
+      "/experiences/2020-03-cea.html",
+      "/experiences/2019-05-dfj.html",
+      "/diplomas/2020-09-isen.html",
+      "/diplomas/2015-06-stv.html",
+      "/certificates/2018-12-toeic.html",
+      "/certificates/2018-05-cambridge.html",
+      "/certificates/2016-05-voltaire.html"
+    ]
+  }
+]

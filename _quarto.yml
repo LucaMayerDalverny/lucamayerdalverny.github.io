@@ -1,0 +1,35 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Luca Mayer-Dalverny"
+  navbar:
+    left:
+      - text: "Resume"
+        href: resume.qmd
+      # - blog.qmd
+    right:
+      - icon: linkedin
+        href: https://www.linkedin.com/in/lucamd/
+      - icon: github
+        href: https://github.com/LucaMayerDalverny
+      - icon: twitter
+        href: https://twitter.com/MayerDalverny
+  page-footer:
+    left: "this website was made using [quarto](https://quarto.org/)"
+    center: "Copyright 2023, Luca Mayer-Dalverny"
+    right:
+      - icon: linkedin
+        href: https://www.linkedin.com/in/lucamd/
+      - icon: github
+        href: https://github.com/LucaMayerDalverny
+      - icon: twitter
+        href: https://twitter.com/MayerDalverny
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+
+
+
