@@ -12,15 +12,15 @@
 
 .quarto-title-meta-heading
 {
-    display: none;
+    display: none !important;
 }
 
 .quarto-title-meta-contents
 {
-    display: none;
+    display: none !important;
 }
 
 div.quarto-post .metadata
 {
-    display: none;
+    display: none !important;
 }
