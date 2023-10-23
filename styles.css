@@ -9,3 +9,18 @@
 {
     background-color: #245E97;
 }
+
+.quarto-title-meta-heading
+{
+    display: none;
+}
+
+.quarto-title-meta-contents
+{
+    display: none;
+}
+
+div.quarto-post .metadata
+{
+    display: none;
+}

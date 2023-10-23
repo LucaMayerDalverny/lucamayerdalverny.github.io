@@ -1,6 +1,6 @@
 ---
 title: "Cambridge Advanced Certificate"
-subtitle: "Certificate obtained at ISEN Méditerranée"
+subtitle: "Certificate obtained at ISEN Méditerranée<br/>2018"
 description: "Score: 189"
 date: "2018-05"
 image: "2018-05-cambridge.png"

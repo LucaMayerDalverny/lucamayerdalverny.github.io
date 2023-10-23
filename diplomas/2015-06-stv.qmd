@@ -1,6 +1,6 @@
 ---
 title: "Scientific Baccalaureate"
-subtitle: "Lycée Saint Thomas de Villeneuve"
+subtitle: "Lycée Saint Thomas de Villeneuve<br/>2015"
 description: "Computer science option (ISN)"
 date: "2015-06"
 image: "2015-06-stv.jpg"

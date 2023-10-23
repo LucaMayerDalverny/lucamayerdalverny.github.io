@@ -1,7 +1,7 @@
 ---
 title: "Engineer Degree"
 subtitle: "ISEN Méditerranée"
-description: "5 years engineering school"
+description: "5 years engineering school<br/>2020"
 date: "2020-09"
 image: "2020-09-isen.png"
 ---
