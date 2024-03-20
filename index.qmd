@@ -1,5 +1,6 @@
 ---
 title: "Welcome to Luca's website!"
+image: profile.png
 about:
   template: jolla
 ---
