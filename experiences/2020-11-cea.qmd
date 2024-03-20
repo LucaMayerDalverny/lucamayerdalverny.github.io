@@ -7,4 +7,48 @@ categories: [ai, python, health]
 image: "2020-11-cea.jpg"
 ---
 
-Details concerning this work experience will soon be added
+## Context
+
+Working in a CEA LETI research laboratory, I was involved in several projects concerning the development of machine learning models.
+
+## Technical environment
+
++ **Programming language:** Python
++ **Frameworks/Libraries:** Pandas, NumPy, SciPy, Scikit-Learn, MatplotLib
++ **Operating systems:** Windows/Linux
++ **Other:** Physiological sensors (BioSignal PLUX, Empatica E4, Fitbit Inspire HR)
+
+## Completed tasks
+
+### Development of a relapse detection model for people with bipolar disorder
+
++ Bibliographic research on relapse detection models.
++ Development of tools for the data acquisition.
++ 6-months acquisition campaign with 10 subjects.
++ Data clean-up and analysis and model training.
+
+### Development of a stress estimation model from physiological signals
+
++ Definition of the experimental protocol and development of the signal acquisition system.
++ Acquisition campaign with 50 subjects.
++ Data clean-up and analysis
++ Model training
+
+### Development of a inconfort estimation model for children with cerebral palsy
+
++ The project's main objective was to develop an exoskeleton and to ensure that does not generate discomfort for the children.
++ Contributions to the model development as well as the article writing.
+
+### Software development
+
++ Development of an internal Python library for model training with a compatibility with the library Scikit-Learn.
++ Maintenance and improvement of the existing signal processing libraries.
+
+### Management
+
++ Co-supervised a master 2 internship for the relapse detection model.
+
+## Results
+
++ An article published concerning the discomfort model for children with cerebral palsy (available [here](https://hal.science/cea-04226465/)).
++ An internal report written concerning blood pressure analysis.
