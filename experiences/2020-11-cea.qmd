@@ -31,12 +31,12 @@ Working in a CEA LETI research laboratory, I was involved in several projects co
 
 + Definition of the experimental protocol and development of the signal acquisition system.
 + Acquisition campaign with 50 subjects.
-+ Data clean-up and analysis
-+ Model training
++ Data clean-up and analysis.
++ Model training.
 
 ### Development of a inconfort estimation model for children with cerebral palsy
 
-+ The project's main objective was to develop an exoskeleton and to ensure that does not generate discomfort for the children.
++ The project's main objective was to develop an exoskeleton and to ensure that it did not generate discomfort for the children.
 + Contributions to the model development as well as the article writing.
 
 ### Software development
