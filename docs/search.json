@@ -60,6 +60,13 @@
     "href": "experiences/2020-11-cea.html",
     "title": "CEA LETI, Grenoble",
     "section": "",
+    "text": "Working in a CEA LETI research laboratory, I was involved in several projects concerning the development of machine learning models."
+  },
+  {
+    "objectID": "experiences/2023-12-agap2it.html",
+    "href": "experiences/2023-12-agap2it.html",
+    "title": "AGAP2 IT, Grenoble",
+    "section": "",
     "text": "Details concerning this work experience will soon be added"
   },
   {
@@ -74,6 +81,62 @@
     "href": "resume.html",
     "title": "Luca Mayer-Dalverny",
     "section": "",
-    "text": "Engineer in Artificial Intelligence and Bio-inspired Software Development\n\n\nWork ExperienceDiplomasCertificates\n\n\n\n\n\n\n\n  \n\n\n\n\nCEA LETI, Grenoble\n\n\nResearch EngineerSince November 2020\n\n\nDevelopment of Machine Learning models for stress detection from physiological data\n\n\n\n\n\n\nNovember 2020\n\n\n\n\n\n\n  \n\n\n\n\nCEA LIST, Grenoble\n\n\nInternshipMarch 2020 - October 2020\n\n\nStudying Generative Neural Networks to optimize a Knowledge Transfer Method\n\n\n\n\n\n\nMarch 2020\n\n\n\n\n\n\n  \n\n\n\n\nDassault Falcon Jet, Little Rock\n\n\nInternshipMay 2019 - October 2019\n\n\nRedesign of the MIS Self Service Portal with Angular and Clarity Design System\n\n\n\n\n\n\nMay 2019\n\n\n\n\n\n\nNo matching items\n\n\n\n\n\n\n\n\n\n\n  \n\n\n\n\nEngineer Degree\n\n\nISEN Méditerranée2020\n\n\n5 years engineering school\n\n\n\n\n\n\nSeptember 2020\n\n\n\n\n\n\n  \n\n\n\n\nScientific Baccalaureate\n\n\nLycée Saint Thomas de Villeneuve2015\n\n\nComputer science option (ISN)\n\n\n\n\n\n\nJune 2015\n\n\n\n\n\n\nNo matching items\n\n\n\n\n\n\n\n\n\n\n  \n\n\n\n\nTOEIC\n\n\nCertificate obtained at ISEN Méditerranée2018\n\n\nScore: 970\n\n\n\n\n\n\nDecember 2018\n\n\n\n\n\n\n  \n\n\n\n\nCambridge Advanced Certificate\n\n\nCertificate obtained at ISEN Méditerranée2018\n\n\nScore: 189\n\n\n\n\n\n\nMay 2018\n\n\n\n\n\n\n  \n\n\n\n\nCertificat Voltaire\n\n\nCertificate obtained at ISEN Méditerranée2016\n\n\nScore: 792\n\n\n\n\n\n\nMay 2016\n\n\n\n\n\n\nNo matching items"
+    "text": "Engineer in Artificial Intelligence and Bio-inspired Software Development\n\n\nWork ExperienceDiplomasCertificates\n\n\n\n\n\n\n\n  \n\n\n\n\nAGAP2 IT, Grenoble\n\n\nSoftware Development ConsultantSince December 2023\n\n\nVarious consultancy projects\n\n\n\n\n\n\nDecember 2023\n\n\n\n\n\n\n  \n\n\n\n\nCEA LETI, Grenoble\n\n\nResearch EngineerNovember 2020 - November 2023\n\n\nDevelopment of Machine Learning models for stress detection from physiological data\n\n\n\n\n\n\nNovember 2020\n\n\n\n\n\n\n  \n\n\n\n\nCEA LIST, Grenoble\n\n\nInternshipMarch 2020 - October 2020\n\n\nStudying Generative Neural Networks to optimize a Knowledge Transfer Method\n\n\n\n\n\n\nMarch 2020\n\n\n\n\n\n\n  \n\n\n\n\nDassault Falcon Jet, Little Rock\n\n\nInternshipMay 2019 - October 2019\n\n\nRedesign of the MIS Self Service Portal with Angular and Clarity Design System\n\n\n\n\n\n\nMay 2019\n\n\n\n\n\n\nNo matching items\n\n\n\n\n\n\n\n\n\n\n  \n\n\n\n\nEngineer Degree\n\n\nISEN Méditerranée2020\n\n\n5 years engineering school\n\n\n\n\n\n\nSeptember 2020\n\n\n\n\n\n\n  \n\n\n\n\nScientific Baccalaureate\n\n\nLycée Saint Thomas de Villeneuve2015\n\n\nComputer science option (ISN)\n\n\n\n\n\n\nJune 2015\n\n\n\n\n\n\nNo matching items\n\n\n\n\n\n\n\n\n\n\n  \n\n\n\n\nTOEIC\n\n\nCertificate obtained at ISEN Méditerranée2018\n\n\nScore: 970\n\n\n\n\n\n\nDecember 2018\n\n\n\n\n\n\n  \n\n\n\n\nCambridge Advanced Certificate\n\n\nCertificate obtained at ISEN Méditerranée2018\n\n\nScore: 189\n\n\n\n\n\n\nMay 2018\n\n\n\n\n\n\n  \n\n\n\n\nCertificat Voltaire\n\n\nCertificate obtained at ISEN Méditerranée2016\n\n\nScore: 792\n\n\n\n\n\n\nMay 2016\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "experiences/2020-11-cea.html#software-development",
+    "href": "experiences/2020-11-cea.html#software-development",
+    "title": "CEA LETI, Grenoble",
+    "section": "Software development",
+    "text": "Software development\n\nDevelopment of an internal Python library for model training with a compatibility with the library Scikit-Learn.\nMaintenance and improvement of the existing signal processing libraries."
+  },
+  {
+    "objectID": "experiences/2020-11-cea.html#development-of-a-relapse-detection-model-for-people-with-bipolar-disorder",
+    "href": "experiences/2020-11-cea.html#development-of-a-relapse-detection-model-for-people-with-bipolar-disorder",
+    "title": "CEA LETI, Grenoble",
+    "section": "Development of a relapse detection model for people with bipolar disorder",
+    "text": "Development of a relapse detection model for people with bipolar disorder\n\nBibliographic research on relapse detection models.\nDevelopment of tools for the data acquisition.\n6-months acquisition campaign with 10 subjects.\nData clean-up and analysis and model training."
+  },
+  {
+    "objectID": "experiences/2020-11-cea.html#development-of-a-stress-estimation-model-from-physiological-signals",
+    "href": "experiences/2020-11-cea.html#development-of-a-stress-estimation-model-from-physiological-signals",
+    "title": "CEA LETI, Grenoble",
+    "section": "Development of a stress estimation model from physiological signals",
+    "text": "Development of a stress estimation model from physiological signals\n\nDefinition of the experimental protocol and development of the signal acquisition system.\nAcquisition campaign with 50 subjects.\nData clean-up and analysis\nModel training"
+  },
+  {
+    "objectID": "experiences/2020-11-cea.html#development-of-a-inconfort-estimation-model-for-children-with-cerebral-palsy",
+    "href": "experiences/2020-11-cea.html#development-of-a-inconfort-estimation-model-for-children-with-cerebral-palsy",
+    "title": "CEA LETI, Grenoble",
+    "section": "Development of a inconfort estimation model for children with cerebral palsy",
+    "text": "Development of a inconfort estimation model for children with cerebral palsy\n\nThe project’s main objective was to develop an exoskeleton and to ensure that does not generate discomfort for the children.\nContributions to the model development as well as the article writing."
+  },
+  {
+    "objectID": "experiences/2020-11-cea.html#management",
+    "href": "experiences/2020-11-cea.html#management",
+    "title": "CEA LETI, Grenoble",
+    "section": "Management",
+    "text": "Management\n\nCo-supervised a master 2 internship for the relapse detection model."
+  },
+  {
+    "objectID": "experiences/2020-11-cea.html#technical-environment",
+    "href": "experiences/2020-11-cea.html#technical-environment",
+    "title": "CEA LETI, Grenoble",
+    "section": "Technical environment",
+    "text": "Technical environment\n\nProgramming language: Python\nFrameworks/Libraries: Pandas, NumPy, SciPy, Scikit-Learn, MatplotLib\nOperating systems: Windows/Linux\nOther: Physiological sensors (BioSignal PLUX, Empatica E4, Fitbit Inspire HR)"
+  },
+  {
+    "objectID": "experiences/2020-11-cea.html#completed-tasks",
+    "href": "experiences/2020-11-cea.html#completed-tasks",
+    "title": "CEA LETI, Grenoble",
+    "section": "Completed tasks",
+    "text": "Completed tasks\n\nDevelopment of a relapse detection model for people with bipolar disorder\n\nBibliographic research on relapse detection models.\nDevelopment of tools for the data acquisition.\n6-months acquisition campaign with 10 subjects.\nData clean-up and analysis and model training.\n\n\n\nDevelopment of a stress estimation model from physiological signals\n\nDefinition of the experimental protocol and development of the signal acquisition system.\nAcquisition campaign with 50 subjects.\nData clean-up and analysis\nModel training\n\n\n\nDevelopment of a inconfort estimation model for children with cerebral palsy\n\nThe project’s main objective was to develop an exoskeleton and to ensure that does not generate discomfort for the children.\nContributions to the model development as well as the article writing.\n\n\n\nSoftware development\n\nDevelopment of an internal Python library for model training with a compatibility with the library Scikit-Learn.\nMaintenance and improvement of the existing signal processing libraries.\n\n\n\nManagement\n\nCo-supervised a master 2 internship for the relapse detection model."
+  },
+  {
+    "objectID": "experiences/2020-11-cea.html#results",
+    "href": "experiences/2020-11-cea.html#results",
+    "title": "CEA LETI, Grenoble",
+    "section": "Results",
+    "text": "Results\n\nAn article published concerning the discomfort model for children with cerebral palsy (available here).\nAn internal report written concerning blood pressure analysis."
   }
 ]
