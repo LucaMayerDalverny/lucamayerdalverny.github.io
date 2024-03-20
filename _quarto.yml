@@ -18,7 +18,7 @@ website:
         href: https://twitter.com/MayerDalverny
   page-footer:
     left: "this website was made using [quarto](https://quarto.org/)"
-    center: "Copyright 2023, Luca Mayer-Dalverny"
+    center: "Copyright 2024, Luca Mayer-Dalverny"
     right:
       - icon: linkedin
         href: https://www.linkedin.com/in/lucamd/
@@ -30,6 +30,3 @@ format:
   html:
     theme: cosmo
     css: styles.css
-
-
-
