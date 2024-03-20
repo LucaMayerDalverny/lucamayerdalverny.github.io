@@ -1,0 +1,10 @@
+---
+title: "AGAP2 IT, Grenoble"
+subtitle: "Software Development Consultant<br/>Since December 2023"
+description: "Various consultancy projects"
+date: "2023-12-04"
+categories: [python]
+image: "2023-12-agap2it.jpg"
+---
+
+Details concerning this work experience will soon be added
