@@ -7,4 +7,24 @@ categories: [ai, python, autoencoders, knowledge-transfer]
 image: "2020-03-cea.jpg"
 ---
 
-Details concerning this work experience will soon be added
+## Context
+
+Working in a CEA LIST research laboratory, I studied generative models to optimized a knowledge transfer method.
+
+## Technical environment
+
++ **Programming language:** Python
++ **Frameworks/Libraries:** Pandas, NumPy, TensorFlow, Keras
++ **Operating systems:** Windows/Linux
++ **Tools:** Git
+
+## Completed tasks
+
++ State of the art on various generative models derived from the auto-encoder (variational, adversarial).
++ Implementation of the generative models to use with the knowledge transfer method
++ Implementation of the method to transfer knowledge from a neural network to another through the generation of training examples.
++ Results analysis and comparison with existing work.
+
+## Results
+
++ The studied generative models provide better knowledge transfer due to the generation of more relevant training examples.
