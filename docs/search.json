@@ -56,6 +56,27 @@
     "text": "Working in a CEA LIST research laboratory, I studied generative models to optimized a knowledge transfer method."
   },
   {
+    "objectID": "experiences/2020-03-cea.html#technical-environment",
+    "href": "experiences/2020-03-cea.html#technical-environment",
+    "title": "CEA LIST, Grenoble",
+    "section": "Technical environment",
+    "text": "Technical environment\n\nProgramming language: Python\nFrameworks/Libraries: Pandas, NumPy, TensorFlow, Keras\nOperating systems: Windows/Linux\nTools: Git"
+  },
+  {
+    "objectID": "experiences/2020-03-cea.html#completed-tasks",
+    "href": "experiences/2020-03-cea.html#completed-tasks",
+    "title": "CEA LIST, Grenoble",
+    "section": "Completed tasks",
+    "text": "Completed tasks\n\nState of the art on various generative models derived from the auto-encoder (variational, adversarial).\nImplementation of the generative models to use with the knowledge transfer method\nImplementation of the method to transfer knowledge from a neural network to another through the generation of training examples.\nResults analysis and comparison with existing work."
+  },
+  {
+    "objectID": "experiences/2020-03-cea.html#results",
+    "href": "experiences/2020-03-cea.html#results",
+    "title": "CEA LIST, Grenoble",
+    "section": "Results",
+    "text": "Results\n\nThe studied generative models provide better knowledge transfer due to the generation of more relevant training examples."
+  },
+  {
     "objectID": "experiences/2020-11-cea.html",
     "href": "experiences/2020-11-cea.html",
     "title": "CEA LETI, Grenoble",
@@ -88,7 +109,14 @@
     "href": "experiences/2023-12-agap2it.html",
     "title": "AGAP2 IT, Grenoble",
     "section": "",
-    "text": "Details concerning this work experience will soon be added"
+    "text": "In the I&C (Instrumentation and Command-Control) department, I contributed to the validation of several libraries (low level and high level) developed in C.\n\n\n\n\nProgramming language: C89\nSoftwares: VectorCast, Visual C 2019\nOperating systems: Windows\nTools: Dimensions\n\n\n\n\n\nDefinition of the testing strategy and redaction of the associated documentation.\nImplementation of the tests with the software VectorCast for Windows.\nImplementation of the tests in C for the other operating systems."
+  },
+  {
+    "objectID": "experiences/2023-12-agap2it.html#pyxalis-december-2023---march-2024",
+    "href": "experiences/2023-12-agap2it.html#pyxalis-december-2023---march-2024",
+    "title": "AGAP2 IT, Grenoble",
+    "section": "Pyxalis (December 2023 - March 2024)",
+    "text": "Pyxalis (December 2023 - March 2024)\n\nContext\nPyxalis develops a star tracker sensor for satellites to control their orbit around the Earth. My mission was to send commands written in a text file (named Test Vector) from a computer to a FPGA board through SpaceWire cables. Moreover, images associated with the Test Vector needed to be loaded in the SRAM of the board.\n\n\nTechnical environment\n\nProgramming language: Python 3.6, C++\nFrameworks/Libraries: STAR System API (Python Package)\nOperating systems: Windows\nTools: Git\n\n\n\nCompleted tasks\n\nSyntactic analysis of the Test Vector files in Python.\nImplementation of the Python script that sends the commands from the Test Vector file to the FPGA board.\nImprovement (with multi-threading) and debug of the C++ code that loads images in the SRAM of the FPGA board.\nDevelopment of a Python library to allow communication through a dedicated process between the Computer and the FPGA board using SpaceWire cables.\nDevelopment of a Python library to implement the communication protocol defined by the client.\nDevelopment of unit tests using unittest and coverage for the previous library."
   },
   {
     "objectID": "index.html",
@@ -103,26 +131,5 @@
     "title": "Luca Mayer-Dalverny",
     "section": "",
     "text": "Engineer in Artificial Intelligence and Bio-inspired Software Development\n\n\nWork ExperienceDiplomasCertificates\n\n\n\n\n\n\n\n  \n\n\n\n\nAGAP2 IT, Grenoble\n\n\nSoftware Development ConsultantSince December 2023\n\n\nVarious consultancy projects\n\n\n\n\n\n\nDecember 2023\n\n\n\n\n\n\n  \n\n\n\n\nCEA LETI, Grenoble\n\n\nResearch EngineerNovember 2020 - November 2023\n\n\nDevelopment of Machine Learning models for stress detection from physiological data\n\n\n\n\n\n\nNovember 2020\n\n\n\n\n\n\n  \n\n\n\n\nCEA LIST, Grenoble\n\n\nInternshipMarch 2020 - October 2020\n\n\nStudying Generative Neural Networks to optimize a Knowledge Transfer Method\n\n\n\n\n\n\nMarch 2020\n\n\n\n\n\n\n  \n\n\n\n\nDassault Falcon Jet, Little Rock\n\n\nInternshipMay 2019 - October 2019\n\n\nRedesign of the MIS Self Service Portal with Angular and Clarity Design System\n\n\n\n\n\n\nMay 2019\n\n\n\n\n\n\nNo matching items\n\n\n\n\n\n\n\n\n\n\n  \n\n\n\n\nEngineer Degree\n\n\nISEN Méditerranée2020\n\n\n5 years engineering school\n\n\n\n\n\n\nSeptember 2020\n\n\n\n\n\n\n  \n\n\n\n\nScientific Baccalaureate\n\n\nLycée Saint Thomas de Villeneuve2015\n\n\nComputer science option (ISN)\n\n\n\n\n\n\nJune 2015\n\n\n\n\n\n\nNo matching items\n\n\n\n\n\n\n\n\n\n\n  \n\n\n\n\nTOEIC\n\n\nCertificate obtained at ISEN Méditerranée2018\n\n\nScore: 970\n\n\n\n\n\n\nDecember 2018\n\n\n\n\n\n\n  \n\n\n\n\nCambridge Advanced Certificate\n\n\nCertificate obtained at ISEN Méditerranée2018\n\n\nScore: 189\n\n\n\n\n\n\nMay 2018\n\n\n\n\n\n\n  \n\n\n\n\nCertificat Voltaire\n\n\nCertificate obtained at ISEN Méditerranée2016\n\n\nScore: 792\n\n\n\n\n\n\nMay 2016\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "experiences/2020-03-cea.html#technical-environment",
-    "href": "experiences/2020-03-cea.html#technical-environment",
-    "title": "CEA LIST, Grenoble",
-    "section": "Technical environment",
-    "text": "Technical environment\n\nProgramming language: Python\nFrameworks/Libraries: Pandas, NumPy, TensorFlow, Keras\nOperating systems: Windows/Linux\nTools: Git"
-  },
-  {
-    "objectID": "experiences/2020-03-cea.html#completed-tasks",
-    "href": "experiences/2020-03-cea.html#completed-tasks",
-    "title": "CEA LIST, Grenoble",
-    "section": "Completed tasks",
-    "text": "Completed tasks\n\nState of the art on various generative models derived from the auto-encoder (variational, adversarial).\nImplementation of the generative models to use with the knowledge transfer method\nImplementation of the method to transfer knowledge from a neural network to another through the generation of training examples.\nResults analysis and comparison with existing work."
-  },
-  {
-    "objectID": "experiences/2020-03-cea.html#results",
-    "href": "experiences/2020-03-cea.html#results",
-    "title": "CEA LIST, Grenoble",
-    "section": "Results",
-    "text": "Results\n\nThe studied generative models provide better knowledge transfer due to the generation of more relevant training examples."
   }
 ]
