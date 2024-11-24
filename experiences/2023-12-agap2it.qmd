@@ -3,8 +3,47 @@ title: "AGAP2 IT, Grenoble"
 subtitle: "Software Development Consultant<br/>Since December 2023"
 description: "Various consultancy projects"
 date: "2023-12-04"
-categories: [python]
+categories: [python, C]
 image: "2023-12-agap2it.jpg"
 ---
 
-Details concerning this work experience will soon be added
+## Framatome (Since May 2024)
+
+### Context
+
+In the I&C (Instrumentation and Command-Control) department, I contributed to the validation of several libraries (low level and high level) developed in C. 
+
+### Technical Environment
+
++ **Programming language:** C89
++ **Softwares:** VectorCast, Visual C 2019
++ **Operating systems:** Windows
++ **Tools:** Dimensions
+
+### Completed Tasks
+
++ Definition of the testing strategy and redaction of the associated documentation.
++ Implementation of the tests with the software VectorCast for Windows.
++ Implementation of the tests in C for the other operating systems.
+
+## Pyxalis (December 2023 - March 2024)
+
+### Context
+
+Pyxalis develops a star tracker sensor for satellites to control their orbit around the Earth. My mission was to send commands written in a text file (named *Test Vector*) from a computer to a FPGA board through *SpaceWire* cables. Moreover, images associated with the *Test Vector* needed to be loaded in the SRAM of the board.
+
+### Technical environment
+
++ **Programming language:** Python 3.6, C++
++ **Frameworks/Libraries:** STAR System API (Python Package)
++ **Operating systems:** Windows
++ **Tools:** Git
+
+### Completed tasks
+
++ Syntactic analysis of the Test Vector files in Python.
++ Implementation of the Python script that sends the commands from the Test Vector file to the FPGA board.
++ Improvement (with multi-threading) and debug of the C++ code that loads images in the SRAM of the FPGA board.
++ Development of a Python library to allow communication through a dedicated process between the Computer and the FPGA board using SpaceWire cables.
++ Development of a Python library to implement the communication protocol defined by the client.
++ Development of unit tests using **unittest** and **coverage** for the previous library.
